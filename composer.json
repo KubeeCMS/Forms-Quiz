@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-quiz",
+    "description": "Allows you to create custom quizzes quickly using Forms.",
+    "keywords": ["kubee", "kubeecms", "forms", "quiz", "forms-quiz"],
+    "homepage": "https://github.com/kubeecms/forms-quiz/",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
